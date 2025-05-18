@@ -18,5 +18,5 @@ the original is here: https://www.a1k0n.net/2011/07/20/donut-math.html
          <1761;k++){putchar(k%80?b[k]:'\n');A+=0.00004;B+=
 	      0.00002;}Thread.sleep(dur!"msecs"(30));}}/**/
               /**#~:;.--#!;//---------------:;;_*/
-			           /*weird ass donut*/
+	               /*weird ass donut*/
 ```
