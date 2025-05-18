@@ -1,5 +1,5 @@
-		     import std.stdio,/**/
-	       std.math,std.array,std.string,
+            	     import std.stdio,/**/
+	       std.math,std.array,std.string,/*~*/
 	   core.thread,std.datetime;void main(){float A=
 	0, B=0;int k;float[1760]z;char[1760]b;/*!=;:~~::*/
        writeln("\x1b[2J");while(true){b[]=' ';z[]=0.0f;for(
