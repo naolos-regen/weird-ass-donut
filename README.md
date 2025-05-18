@@ -20,3 +20,10 @@ the original is here: https://www.a1k0n.net/2011/07/20/donut-math.html
               /**#~:;.--#!;//---------------:;;_*/
 	               /*weird ass donut*/
 ```
+
+you can compile it :-)
+```bash
+>$ dmd weird_ass_donut && ./weird_ass_donut
+# or
+>$ rdmd weird_ass_donut
+```
